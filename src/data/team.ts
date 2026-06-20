@@ -21,39 +21,40 @@ export const team: TeamMember[] = [
   {
     id: 2,
     name: 'Arvind Kumar Shukla',
-    role: 'Co-Founder & Sales Director',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80',
+    role: 'Legal & Documentation Head',
+    image: './src/data/assets/id_2.png',
     phone: '+91 9873194446',
     email: 'priya@aryanproperties.com',
-    bio: 'Priya leads our sales team with deep expertise in residential properties across Noida prime sectors.'
+    bio: 'Arvind ensures all property transactions are legally sound with complete documentation support.'
   },
   {
     id: 3,
     name: 'Manoj Kumar',
     role: 'Senior Property Consultant',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80',
+    image: './src/data/assets/id3.png',
     phone: '+91 9873824446',
     email: 'rajesh@aryanproperties.com',
-    bio: 'Specializing in commercial and residential properties, Rajesh has closed over 500+ deals successfully.'
+    bio: 'Specializing in commercial and residential properties, Manoj has closed over 1000+ deals successfully.'
   },
   {
     id: 4,
     name: 'Monu Kumar',
-    role: 'Rental Expert',
-    image: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80',
+    role: 'Senior Property Consultant',
+    image: './src/data/assets/id4.png',
     phone: '+91 9899185715',
     email: 'neha@aryanproperties.com',
-    bio: 'Neha manages our rental division with unmatched knowledge of tenant-landlord relations in Noida.'
+    bio: 'Trusted real estate expert with 400+ successful property transactions.'
   },
   {
     id: 5,
     name: 'Deepanshu',
-    role: 'Legal & Documentation Head',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80',
+    role: 'Senior Property Consultant',
+    image: './src/data/assets/id5.png',
     phone: '+91 9953444611',
     email: 'vikram@aryanproperties.com',
-    bio: 'Vikram ensures all property transactions are legally sound with complete documentation support.'
+    bio: 'Deeepanshu is an expert in commercial and residential real estate with 300+ successful deals.'
   },
+  /*
   {
     id: 6,
     name: 'Anjali Verma',
@@ -63,6 +64,7 @@ export const team: TeamMember[] = [
     email: 'anjali@aryanproperties.com',
     bio: 'Anjali ensures every client has a seamless and satisfying property journey with us.'
   }
+    */
 ];
 
 export const testimonials = [
