@@ -1,3 +1,9 @@
+import id1 from './assets/id1.jpeg';
+import id2 from './assets/id2.png';
+import id3 from './assets/id3.png';
+import id4 from './assets/id4.png';
+import id5 from './assets/id5.png';
+
 export interface TeamMember {
   id: number;
   name: string;
@@ -13,7 +19,7 @@ export const team: TeamMember[] = [
     id: 1,
     name: 'Sunil Kumar',
     role: 'Founder & CEO',
-    image: './src/data/assets/id1.jpeg',
+    image: id1,
     phone: '+91 9953444307',
     email: 'aryan@aryanproperties.com',
     bio: 'With 22+ years of experience in Noida real estate, Sunil Kumar founded Aryan Properties with a vision to provide transparent and reliable property services.'
@@ -22,7 +28,7 @@ export const team: TeamMember[] = [
     id: 2,
     name: 'Arvind Kumar Shukla',
     role: 'Legal & Documentation Head',
-    image: './src/data/assets/id_2.png',
+    image: id2,
     phone: '+91 9873194446',
     email: 'priya@aryanproperties.com',
     bio: 'Arvind ensures all property transactions are legally sound with complete documentation support.'
@@ -31,7 +37,7 @@ export const team: TeamMember[] = [
     id: 3,
     name: 'Manoj Kumar',
     role: 'Senior Property Consultant',
-    image: './src/data/assets/id3.png',
+    image: id3,
     phone: '+91 9873824446',
     email: 'rajesh@aryanproperties.com',
     bio: 'Specializing in commercial and residential properties, Manoj has closed over 1000+ deals successfully.'
@@ -40,7 +46,7 @@ export const team: TeamMember[] = [
     id: 4,
     name: 'Monu Kumar',
     role: 'Senior Property Consultant',
-    image: './src/data/assets/id4.png',
+    image: id4,
     phone: '+91 9899185715',
     email: 'neha@aryanproperties.com',
     bio: 'Trusted real estate expert with 400+ successful property transactions.'
@@ -49,7 +55,7 @@ export const team: TeamMember[] = [
     id: 5,
     name: 'Deepanshu',
     role: 'Senior Property Consultant',
-    image: './src/data/assets/id5.png',
+    image: id5,
     phone: '+91 9953444611',
     email: 'vikram@aryanproperties.com',
     bio: 'Deeepanshu is an expert in commercial and residential real estate with 300+ successful deals.'
