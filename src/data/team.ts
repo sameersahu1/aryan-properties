@@ -40,7 +40,7 @@ export const team: TeamMember[] = [
     image: id3,
     phone: '+91 9873824446',
     email: 'rajesh@aryanproperties.com',
-    bio: 'Specializing in commercial and residential properties, Manoj has closed over 1000+ deals successfully.'
+    bio: 'Specializing in commercial and residential properties, Manoj has closed over 500+ deals successfully.'
   },
   {
     id: 4,
@@ -58,7 +58,7 @@ export const team: TeamMember[] = [
     image: id5,
     phone: '+91 9953444611',
     email: 'vikram@aryanproperties.com',
-    bio: 'Deeepanshu is an expert in commercial and residential real estate with 300+ successful deals.'
+    bio: 'Deepanshu is an expert in commercial and residential real estate with 300+ successful deals.'
   },
   /*
   {
