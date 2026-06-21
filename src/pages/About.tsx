@@ -81,7 +81,7 @@ export default function About() {
             {[
               { icon: <Building2 className="w-7 h-7" />, value: '2500+', label: 'Deals Closed' },
               { icon: <Users className="w-7 h-7" />, value: '5000+', label: 'Happy Clients' },
-              { icon: <Award className="w-7 h-7" />, value: '13+', label: 'Years Experience' },
+              { icon: <Award className="w-7 h-7" />, value: '22+', label: 'Years Experience' },
               { icon: <TrendingUp className="w-7 h-7" />, value: '8+', label: 'Prime Sectors' }
             ].map((stat, i) => (
               <div key={i} className="text-center p-6 bg-slate-50 rounded-2xl border border-slate-100">
